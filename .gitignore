@@ -1,0 +1,16 @@
+# Files to ignore:
+*.zip
+*.jar
+*.m
+*.mat
+*.gz
+*.tr
+*.xws
+*.txt
+*.csv
+# Folders to ignore:
+wrist-ppg-during-exercise-1.0.0/
+raw_data/
+mit-bih-arrhythmia-database-1.0.0/
+dataset/
+bidmc-ppg-and-respiration-dataset-1.0.0/
